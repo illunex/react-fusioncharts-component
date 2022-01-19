@@ -1,3 +1,5 @@
+Fork of react-fusioncharts-component (https://github.com/fusioncharts/react-fusioncharts-component) with react 17 support.
+
 A simple and lightweight official React component for FusionCharts JavaScript charting library. `react-fusioncharts` enables you to add JavaScript charts in your React application or project without any hassle.
 
 ## [Demo](https://fusioncharts.github.io/react-fusioncharts-component/)
